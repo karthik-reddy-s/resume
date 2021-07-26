@@ -1,0 +1,39 @@
+
+  
+  ul {
+    list-style-type:square;
+    margin: 0;
+    padding: 0;
+    width: 17%;
+    background-color:rgb(26, 176, 221);
+    position: fixed;
+    height: 100%;
+    overflow:visible;
+  }
+  
+  li a {
+    display: block;
+    color:white;
+    font-size:22px;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  
+ li a:link {
+    color:whitesmoke;
+  }
+  
+  /* visited link */
+ li a:visited {
+    color: white;
+  }
+  
+  li a:hover {
+   
+    color:rgb(18, 223, 110);
+  }
+  li a:active {
+    
+    color: rgb(202, 91, 147);
+    
+  }

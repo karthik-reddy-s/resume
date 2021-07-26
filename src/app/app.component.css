@@ -1,0 +1,8 @@
+.bg{
+    background-color:rgb(193, 226, 8);
+}
+@media screen and (max-width: 480px) {
+    .bg {
+      background-color: lightgreen;
+    }
+  }
